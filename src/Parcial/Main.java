@@ -110,7 +110,7 @@ Adicionalmente, la aplicación debe permitir
                     break;
                 case 4:
 
-                    
+
                     break;
                 case 5:
                     salir = true;
